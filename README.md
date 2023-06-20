@@ -7,6 +7,6 @@
 <a href="http://www.instagram.com/wasitright/?next=%2F"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>  
 
 ### : Contact
-<a href="(https://mail.naver.com/v2/folders/0/all"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+
 
 ### : Skill
