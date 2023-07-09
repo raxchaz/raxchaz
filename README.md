@@ -12,8 +12,3 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></p>
 
 
-<p>
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raxchaz&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  
-<br>
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=raxchaz&show_icons=true&theme=vue)
-</p>
