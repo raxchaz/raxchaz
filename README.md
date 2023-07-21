@@ -31,8 +31,11 @@
 <br>
 
 > ### PortFolio
+<p><img src="https://img.shields.io/badge/Notion-FE5196?style=flat&logo=Notion&logoColor=white"/>
   
-<p>
+</p>
+<br>
+
 
 <img width="466" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxchaz&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=raxchaz&show_icons=true">
