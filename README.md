@@ -36,15 +36,21 @@
 
 <br>
 
+
 > ### PortFolio
 <p><img src="https://img.shields.io/badge/Notion-FE5196?style=flat&logo=Notion&logoColor=white"/>
   
 </p>
 <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxchaz" width="40%">
+<br>
+
+---
+
+> ### 프로젝트
+* 비건 식단을 지향하는 사람들을 위한 비건 레시피 공유 서비스, [FOREPE](https://github.com/mtvs-merge)
 
 
-<img width="466" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxchaz&layout=compact"><br>
-   
 
 </p>
 </p>
