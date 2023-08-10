@@ -48,9 +48,8 @@
 ---
 
 > ### 프로젝트
-🖤 미니 / 사이드 / 토이 프로젝트 모음집! [onClick](https://github.com/raxchaz/Mini-side-Project) :) <br>
-🖤 비건 식단을 지향하는 사람들을 위한 비건 레시피 공유 서비스, [FOREPE](https://github.com/mtvs-merge)
-
+🖤 미니 / 사이드 / 토이 프로젝트 모음집! **[onClick](https://github.com/raxchaz/Mini-side-Project)** :) <br>
+🖤 비건 식단을 지향하는 사람들을 위한 비건 레시피 공유 서비스, **[FOREPE](https://github.com/mtvs-merge)**
 
 
 </p>
