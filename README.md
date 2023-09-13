@@ -51,6 +51,7 @@
 🖤 고양이 키우기 프로젝트, **[Meow Life](https://github.com/mtvs-server2/spring-meow-life-game)** <br>
 🖤 비건 식단을 지향하는 사람들을 위한 비건 레시피 공유 서비스, **[FOREPE](https://github.com/mtvs-merge)** <br>
 🖤 하루의 소감을 일기처럼 쓸 수 있는 웹 다이어리, **[주절주접](https://github.com/mtvs-server2/spring-web-diary)** <br>
+🖤 무명 작곡가와 가수를 AI 커버로 매칭해주는, **[랄라리아](https://github.com/isthisteamisthis)** <br>
 
 
 </p>
