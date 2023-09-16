@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=Three.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Babylon.js-BB464B?style=flat&logo=Babylon.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
 </p>
 
 
@@ -49,9 +50,10 @@
 > ### 프로젝트
 🖤 미니 / 사이드 / 토이 프로젝트 모음집! **[onClick](https://github.com/raxchaz/Mini-side-Project)** :) <br>
 🖤 고양이 키우기 프로젝트, **[Meow Life](https://github.com/mtvs-server2/spring-meow-life-game)** <br>
-🖤 비건 식단을 지향하는 사람들을 위한 비건 레시피 공유 서비스, **[FOREPE](https://github.com/mtvs-merge)** <br>
 🖤 하루의 소감을 일기처럼 쓸 수 있는 웹 다이어리, **[주절주접](https://github.com/mtvs-server2/spring-web-diary)** <br>
-🖤 무명 작곡가와 가수를 AI 커버로 매칭해주는, **[랄라리아](https://github.com/isthisteamisthis)** <br>
+🖤 비건 식단을 지향하는 사람들을 위한 비건 레시피 공유 서비스, **[FOREPE](https://github.com/mtvs-merge)** <br>
+🖤 러너들을 위한 러닝 코스 추천 웹/앱 플랫폼, **[러닝하이](https://github.com/cca-ffodregamdi)** <br>
+🖤 무명 작곡가와 가수를 AI 커버로 매칭해주는 모바일 어플리케이션, **[랄라리아](https://github.com/isthisteamisthis)** <br>
 
 
 </p>
