@@ -47,7 +47,8 @@
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 </p>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxchaz" width="40%">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raxchaz&layout=compact)](https://github.com/raxchaz/github-readme-stats)
 <br>
 
 ---
