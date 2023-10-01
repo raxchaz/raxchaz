@@ -5,7 +5,7 @@
 
 
 > ### MY REcord 
-<a href="https://velog.io/@rachaz"><img src="https://img.shields.io/badge/velog-0ABF53?style=flat&logo=velog&logoColor=white"/></a>
+<a href="https://velog.io/@raxchaz"><img src="https://img.shields.io/badge/velog-0ABF53?style=flat&logo=velog&logoColor=white"/></a>
 <a href="http://www.instagram.com/wasitright/?next=%2F"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> 
 
 <br>
