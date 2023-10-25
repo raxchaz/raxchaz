@@ -4,26 +4,28 @@
 <br>
 
 
-> ### MY Record 
+> ### MY Record
+>
+<a href="https://github.com/raxchaz"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a>
 <a href="https://velog.io/@raxchaz"><img src="https://img.shields.io/badge/velog-0ABF53?style=flat&logo=velog&logoColor=white"/></a>
 <a href="http://www.instagram.com/wasitright/?next=%2F"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> 
 
 <br>
 
 > ### Tech Skill
-
-<p><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+<p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/ReactNative-007396?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
 <br>
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=Three.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Babylon.js-BB464B?style=flat&logo=Babylon.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReactNative-007396?style=flat&logo=React&logoColor=white"/>
+
 </p>
 
 
@@ -39,27 +41,18 @@
 
 <br>
 
-
-> ### PortFolio
-<p><img src="https://img.shields.io/badge/Notion-FE5196?style=flat&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
-</p>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raxchaz&layout=compact)](https://github.com/raxchaz/github-readme-stats)
-<br>
-
----
-
-> ### 프로젝트
-🖤 미니 / 사이드 / 토이 프로젝트 모음집! **[onClick](https://github.com/raxchaz/Mini-side-Project)** :) <br>
-🖤 고양이 키우기 프로젝트, **[Meow Life](https://github.com/mtvs-server2/spring-meow-life-game)** <br>
-🖤 하루의 소감을 일기처럼 쓸 수 있는 웹 다이어리, **[주절주접](https://github.com/mtvs-server2/spring-web-diary)** <br>
-🖤 비건 식단을 지향하는 사람들을 위한 비건 레시피 공유 서비스, **[FOREPE](https://github.com/mtvs-merge)** <br>
-🖤 러너들을 위한 러닝 코스 추천 웹/앱 플랫폼, **[러닝하이](https://github.com/cca-ffodregamdi)** <br>
-🖤 무명 작곡가와 가수를 AI 커버로 매칭해주는 모바일 어플리케이션, **[랄라리아](https://github.com/isthisteamisthis)** <br>
-
+> ### 프로젝트 정리
+|프로젝트명|간단한 소개|기술|제작 일정|링크|
+|:---:|:---:|:---:|:---:|:---:|
+|**러닝하이**|러너들을 위한 러닝 코스 추천 웹/앱 플랫폼| React Native, React, <br> javascript |2023.08.01  <br> ~ 진행 중|[Click Github](https://github.com/cca-ffodregamdi)|
+|**도로 위 성동구**|성동구민들을 위한 <br> 민원 작성 모바일 어플리케이션| React Native, <br> javascript |2023.10.01 <br> ~ 진행 중|[Click Github](https://github.com/fixplzz)|
+|**한적칸적**|내 위치를 기준으로  <br> 장소의 혼잡도를 측정할 수 있는 어플| React Native, <br> javascript |2023.10.23 <br> ~ 진행 중|[Click Github](https://github.com/HanJuck-KanJuck)|
+  |**랄라리아**| 무명 작곡가와 가수를 <br> AI 커버로 매칭해주는 모바일 어플리케이션| React Native, <br> javascript |2023.09.06 <br> ~ 2023.09.26|[Youtube](https://youtu.be/QluGKnN534Y?si=RXNAt3PruZ9CyMqP) <br> [Click Github](https://github.com/isthisteamisthis)|
+  |**FOREPE**|비건 식단을 지향하는 사람들을 위한 <Br> 비건 레시피 공유 서비스| Spring, Java|2023.07.03 <br> ~ 2023.07.31|[Click Github](https://github.com/mtvs-merge)|
+ |**Meow Life**|고양이 키우기 프로젝트| Spring, Java |2023.06 |[Click Github](https://github.com/mtvs-server2/spring-meow-life-game)|
+|**주절주접**|하루의 소감을 일기처럼 쓸 수 있는 웹 다이어리| Spring, Java|2023.06 |[Click Github](https://github.com/mtvs-server2/spring-web-diary)
 
 </p>
 </p>
