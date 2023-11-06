@@ -47,7 +47,6 @@
 |:---:|:---:|:---:|:---:|:---:|
 |**러닝하이**|러너들을 위한 러닝 코스 추천 웹/앱 플랫폼| React Native, React, <br> javascript |2023.08.01  <br> ~ 진행 중|[Click Github](https://github.com/cca-ffodregamdi)|
 |**도로 위 성동구**|성동구민들을 위한 <br> 민원 작성 모바일 어플리케이션| React <br> javascript |2023.10.01 <br> ~ 진행 중|[Click Github](https://github.com/fixplzz)|
-|**한적칸적**|내 위치를 기준으로  <br> 장소의 혼잡도를 측정할 수 있는 어플| React Native, <br> javascript |2023.10.23 <br> ~ 진행 중|[Click Github](https://github.com/HanJuck-KanJuck)|
   |**랄라리아**| 무명 작곡가와 가수를 <br> AI 커버로 매칭해주는 모바일 어플리케이션| React Native, <br> javascript |2023.09.06 <br> ~ 2023.09.26|[Youtube](https://youtu.be/QluGKnN534Y?si=RXNAt3PruZ9CyMqP) <br> [Click Github](https://github.com/isthisteamisthis)|
  |**Meow Life**|고양이 키우기 프로젝트| Spring, Java |2023.06 |[Click Github](https://github.com/mtvs-server2/spring-meow-life-game)|
 |**주절주접**|하루의 소감을 일기처럼 쓸 수 있는 웹 다이어리| Spring, Java|2023.06 |[Click Github](https://github.com/mtvs-server2/spring-web-diary)
