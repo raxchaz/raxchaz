@@ -25,8 +25,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
@@ -37,17 +35,26 @@
 
 
 > ### Art Skill
-<p><img src="https://img.shields.io/badge/Premere-Pro-CC0000?style=flat&logo=Premere-Pro&logoColor=white"/>
+<p><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=Blender&logoColor=white"/>
-<img src="https://img.shields.io/badge/AfterEffect-9999FF?style=flat&logo=Aftereffect&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Maya-37A5CC?style=flat&logo=Maya&logoColor=white"/>
+<img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat&logo=AdobeXD&logoColor=white"/>
+<br>
 
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=Premere-Pro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Premere-Pro-CC0000?style=flat&logo=Premere-Pro&logoColor=white"/>
+<img src="https://img.shields.io/badge/AfterEffect-9999FF?style=flat&logo=Aftereffect&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobeillustrator-FF9A00?style=flat&logo=Adobeillustrator&logoColor=white"/>
+
+<br>
+
+
+</p>
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxchaz&layout=compact">
 
-<br>
+
 
 <br>
 
