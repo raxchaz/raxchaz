@@ -41,7 +41,6 @@
 <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat&logo=AdobeXD&logoColor=white"/>
 <br>
 
-<img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=Premere-Pro&logoColor=white"/>
 <img src="https://img.shields.io/badge/Premere-Pro-CC0000?style=flat&logo=Premere-Pro&logoColor=white"/>
 <img src="https://img.shields.io/badge/AfterEffect-9999FF?style=flat&logo=Aftereffect&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobeillustrator-FF9A00?style=flat&logo=Adobeillustrator&logoColor=white"/>
