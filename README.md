@@ -1,5 +1,5 @@
 # 라현지 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fraxchaz%2Fhit-counter&count_bg=%23F8B64A&title_bg=%23FF8989&icon=&icon_color=%23000000&title=Onlooker&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fraxchaz%2Fhit-counter&count_bg=%23F8B64A&title_bg=%23FF8989&icon=&icon_color=%23000000&title=&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <br>
 
@@ -7,7 +7,8 @@
 > ### MY Record
 >
 <a href="https://github.com/raxchaz"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a>
-<a href="https://velog.io/@raxchaz"><img src="https://img.shields.io/badge/velog-0ABF53?style=flat&logo=velog&logoColor=white"/></a>
+<a href="https://velog.io/@raxchaz"><img src="https://img.shields.io/badge/velog-598D5B?style=flat&logo=velog&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=velog&logoColor=white"/>
 
 <br>
 
@@ -19,15 +20,15 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReactNative-007396?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-6CADC1?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactNative-558695?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FFC530?style=flat&logo=JavaScript&logoColor=white"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-E87624?style=flat&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-34535D?style=flat&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/Redux-865C9A?style=flat&logo=Redux&logoColor=white"/>
 
 </p>
 
@@ -35,18 +36,18 @@
 
 
 > ### Art Skill
-<p><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+
+<p>
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=Blender&logoColor=white"/>
 <img src="https://img.shields.io/badge/Maya-37A5CC?style=flat&logo=Maya&logoColor=white"/>
-<img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat&logo=AdobeXD&logoColor=white"/>
-<br>
-
-<img src="https://img.shields.io/badge/Premere-Pro-CC0000?style=flat&logo=Premere-Pro&logoColor=white"/>
 <img src="https://img.shields.io/badge/AfterEffect-9999FF?style=flat&logo=Aftereffect&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobeillustrator-FF9A00?style=flat&logo=Adobeillustrator&logoColor=white"/>
 
 <br>
 
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/AdobeXD-DC7AA3?style=flat&logo=AdobeXD&logoColor=white"/>
+<img src="https://img.shields.io/badge/Premere-Pro-CC0000?style=flat&logo=Premere-Pro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobeillustrator-471E00?style=flat&logo=Adobeillustrator&logoColor=white"/>
 
 </p>
 <br>
