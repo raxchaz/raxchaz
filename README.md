@@ -1,5 +1,6 @@
 # 라현지 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fraxchaz%2Fhit-counter&count_bg=%23F8B64A&title_bg=%23FF8989&icon=&icon_color=%23000000&title=&edge_flat=true)](https://hits.seeyoufarm.com)
+<a href="https://www.linkedin.com/in/raxchaz/" target="_blank"><img src="https://img.shields.io/badge/라현지-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 <br>
 
