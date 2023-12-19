@@ -9,7 +9,6 @@
 >
 <a href="https://github.com/raxchaz"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a>
 <a href="https://velog.io/@raxchaz"><img src="https://img.shields.io/badge/velog-598D5B?style=flat&logo=velog&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=velog&logoColor=white"/>
 
 <br>
 
