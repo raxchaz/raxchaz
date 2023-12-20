@@ -41,10 +41,10 @@
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=Blender&logoColor=white"/>
 <img src="https://img.shields.io/badge/Maya-37A5CC?style=flat&logo=Maya&logoColor=white"/>
 <img src="https://img.shields.io/badge/AfterEffect-9999FF?style=flat&logo=Aftereffect&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <br>
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/AdobeXD-DC7AA3?style=flat&logo=AdobeXD&logoColor=white"/>
 <img src="https://img.shields.io/badge/Premere-Pro-CC0000?style=flat&logo=Premere-Pro&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobeillustrator-471E00?style=flat&logo=Adobeillustrator&logoColor=white"/>
