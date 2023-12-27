@@ -15,20 +15,26 @@
 > ### Tech Skill
 <p>
 
+<img src="https://img.shields.io/badge/html5-E87624?style=flat&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-34535D?style=flat&logo=css3&logoColor=white"> 
+
+<br>
+
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/React-6CADC1?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactNative-558695?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-FFC530?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-865C9A?style=flat&logo=Redux&logoColor=white"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/html5-E87624?style=flat&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-34535D?style=flat&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/Redux-865C9A?style=flat&logo=Redux&logoColor=white"/>
+
+
 
 </p>
 
