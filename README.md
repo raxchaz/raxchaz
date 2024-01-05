@@ -58,6 +58,7 @@
 </p>
 <br>
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=raxchaz)](https://velog.io/@raxchaz)
 
 
 <br>
