@@ -1,4 +1,4 @@
-#### RA HYEONJI • <sub> FrontEnd Dev & UI•UX Designer <sub/>
+### RA HYEONJI • <sub> FrontEnd Dev & UI•UX Designer <sub/>
 ---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fraxchaz&count_bg=%23A2A2A2&title_bg=%23000000&icon=&icon_color=%239E9E9E&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
