@@ -1,7 +1,7 @@
 #### RA HYEONJI • <sub> FrontEnd Dev & UI•UX Designer <sub/>
 ---
 [![](https://img.shields.io/badge/-PortFolio-important?style=style=flat&logo=mix&logoColor=white&labelColor=black&color=9e9e9e)
-](https://velog.io/@cofl/posts) 
+](https://www.notion.so/rachaz/CHAZ-a1a08624b0c0492cab6061e181df6871?pvs=4) 
 
 #### ☁️ Projects
 ##### [COVERFLOW](https://github.com/COFLLL) • 기업 정보 Q&A 서비스 <sub>Web FrontEnd Developer (2024.01 ~ )<sub/>
